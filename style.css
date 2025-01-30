@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Caveat:wght@400..700&family=Funnel+Display:wght@300..800&family=Jersey+15&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+    font-family: poppins;
+    background-color: #efefef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+.card{
+    background-color: white;
+    width: 90%;
+    border-radius: 20px;
+    box-shadow: 0 3px 6px solid rgb(0,0,0,0.5);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}
+.navbar p{
+    font-size: 18px;
+    font-weight: bold;
+}
+ .navbar ul{
+    display: flex;
+    gap: 20px;
+
+}
+.navbar ul {
+    list-style: none;
+
+}
+li{
+    list-style: none;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.btn-grp{
+    display: flex;
+    gap: 20px;
+
+}
+.btn, .plane{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.plane:hover{
+    background-color: black
+    color ; white :
+}
+.container{
+    display: flex;
+}
+.textsection{
+    padding: 30px;
+    width: 55%;
+    background-color: white;
+}
+.textsection{
+    margin-bottom: 5px;
+font-weight: 300;
+font-size: 13px;
+
+
+}
+.textsection h1{
+margin: 0;
+font-weight: 500;
+}
+
+.textsection p{
+margin-top: 0;
+}
+.textsection button :hover{
+    background-color :rgb(122, green, 122
+}
